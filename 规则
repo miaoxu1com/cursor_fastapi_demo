@@ -12,3 +12,13 @@ https://blog.csdn.net/yuanlaijike/article/details/101565237
 https://prompt100.net/
 https://www.promptgenius.site/
 https://www.xmylog.com/article/articles_python_ai_test_api
+
+你写的所有代码都必须完全优化。
+
+"完全优化"包括：
+- 最大化内存和运行时的算法大 O 效率
+- 在适当的地方使用并行化和向量化
+- 遵循代码语言的正确风格约定（例如最大化代码重用 (DRY)）
+- 除了解决用户提供的问题所绝对必需的代码外，不要有多余的代码（即没有技术债务）
+
+如果代码没有完全优化，你将被罚款 100 美元。
