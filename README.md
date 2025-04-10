@@ -22,4 +22,4 @@
 3. 使用uvicorn main:app --reload --host 0.0.0.0 --port 8000运行后端服务
 4. 不要迁移venv环境直接使用依赖文件安装新的程序
 ## AI工具
-1. chatGPT，还有cursor、WindSurf、v0、Bolt.new、trae、comate
+1. chatGPT，还有cursor、WindSurf、v0、Bolt.new、trae、comate、We0
